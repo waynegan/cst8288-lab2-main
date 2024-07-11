@@ -1,0 +1,149 @@
+INFO: Loaded database properties.
+INFO: Connected to the database.
+DEBUG: Line 2: Invalid courseId - cst8288
+WARN: Line 2: Invalid courseId; 
+DEBUG: Line 3: Invalid studentId - 9861534S2
+DEBUG: Line 3: Invalid courseId - mat1101A
+DEBUG: Line 3: Invalid year - 2025
+WARN: Line 3: Invalid studentId; Invalid courseId; Invalid year; 
+DEBUG: Line 4: Invalid studentId - 3215619823
+DEBUG: Line 4: Invalid courseId - cst8288
+DEBUG: Line 4: Invalid year - 1955
+WARN: Line 4: Invalid studentId; Invalid courseId; Invalid year; 
+INFO: Generated reports.
+INFO: Loaded database properties.
+INFO: Connected to the database.
+DEBUG: Line 2: Invalid courseId - cst8288
+WARN: Line 2: Invalid courseId; 
+DEBUG: Line 3: Invalid studentId - 9861534S2
+DEBUG: Line 3: Invalid courseId - mat1101A
+DEBUG: Line 3: Invalid year - 2025
+WARN: Line 3: Invalid studentId; Invalid courseId; Invalid year; 
+DEBUG: Line 4: Invalid studentId - 3215619823
+DEBUG: Line 4: Invalid courseId - cst8288
+DEBUG: Line 4: Invalid year - 1955
+WARN: Line 4: Invalid studentId; Invalid courseId; Invalid year; 
+INFO: Generated reports.
+INFO: Loaded database properties.
+INFO: Connected to the database.
+DEBUG: Line 2: Invalid courseId - cst8288
+WARN: Line 2: Invalid courseId; 
+DEBUG: Line 3: Invalid studentId - 9861534S2
+DEBUG: Line 3: Invalid courseId - mat1101A
+DEBUG: Line 3: Invalid year - 2025
+WARN: Line 3: Invalid studentId; Invalid courseId; Invalid year; 
+DEBUG: Line 4: Invalid studentId - 3215619823
+DEBUG: Line 4: Invalid courseId - cst8288
+DEBUG: Line 4: Invalid year - 1955
+WARN: Line 4: Invalid studentId; Invalid courseId; Invalid year; 
+INFO: Generated reports.
+INFO: Loaded database properties.
+INFO: Connected to the database.
+DEBUG: Line 2: Invalid courseId - cst8288
+WARN: Line 2: Invalid courseId; 
+DEBUG: Line 3: Invalid studentId - 9861534S2
+DEBUG: Line 3: Invalid courseId - mat1101A
+DEBUG: Line 3: Invalid year - 2025
+WARN: Line 3: Invalid studentId; Invalid courseId; Invalid year; 
+DEBUG: Line 4: Invalid studentId - 3215619823
+DEBUG: Line 4: Invalid courseId - cst8288
+DEBUG: Line 4: Invalid year - 1955
+WARN: Line 4: Invalid studentId; Invalid courseId; Invalid year; 
+INFO: Generated reports.
+INFO: Loaded database properties.
+INFO: Connected to the database.
+DEBUG: Line 3: Invalid studentId - 9861534S2
+DEBUG: Line 3: Invalid courseId - mat1101A
+DEBUG: Line 3: Invalid year - 2025
+WARN: Line 3: Invalid studentId; Invalid courseId; Invalid year; 
+DEBUG: Line 4: Invalid studentId - 3215619823
+DEBUG: Line 4: Invalid year - 1955
+WARN: Line 4: Invalid studentId; Invalid year; 
+INFO: Added student to DB: org.cst8288Lab2.domain.Student@5f8edcc5
+INFO: Added course to DB: org.cst8288Lab2.domain.Course@1ebd319f
+INFO: Added studentCourse to DB: org.cst8288Lab2.domain.StudentCourse@15ca7889
+INFO: Generated reports.
+INFO: Loaded database properties.
+INFO: Connected to the database.
+DEBUG: Line 3: Invalid studentId - 9861534S2
+DEBUG: Line 3: Invalid courseId - mat1101A
+DEBUG: Line 3: Invalid year - 2025
+WARN: Line 3: Invalid studentId; Invalid courseId; Invalid year; 
+DEBUG: Line 4: Invalid studentId - 3215619823
+DEBUG: Line 4: Invalid year - 1955
+WARN: Line 4: Invalid studentId; Invalid year; 
+ERROR: Error adding student: org.cst8288Lab2.domain.Student@3e96bacf - Duplicate entry '123546851' for key 'student.PRIMARY'
+ERROR: Error adding course: org.cst8288Lab2.domain.Course@484970b0 - Duplicate entry 'cst8288' for key 'course.PRIMARY'
+ERROR: Error adding studentCourse: org.cst8288Lab2.domain.StudentCourse@4470f8a6 - Duplicate entry '123546851-cst8288' for key 'studentcourse.PRIMARY'
+INFO: Generated reports.
+INFO: Loaded database properties.
+INFO: Connected to the database.
+DEBUG: Line 3: Invalid studentId - 9861534S2
+DEBUG: Line 3: Invalid courseId - mat1101A
+DEBUG: Line 3: Invalid year - 2025
+WARN: Line 3: Invalid studentId; Invalid courseId; Invalid year; 
+DEBUG: Line 4: Invalid studentId - 3215619823
+DEBUG: Line 4: Invalid year - 1955
+WARN: Line 4: Invalid studentId; Invalid year; 
+ERROR: Error adding student: org.cst8288Lab2.domain.Student@3e96bacf - Duplicate entry '123546851' for key 'student.PRIMARY'
+ERROR: Error adding course: org.cst8288Lab2.domain.Course@484970b0 - Duplicate entry 'cst8288' for key 'course.PRIMARY'
+ERROR: Error adding studentCourse: org.cst8288Lab2.domain.StudentCourse@4470f8a6 - Duplicate entry '123546851-cst8288' for key 'studentcourse.PRIMARY'
+INFO: Generated reports.
+INFO: Loaded database properties.
+INFO: Connected to the database.
+DEBUG: Line 3: Invalid studentId - 9861534S2
+DEBUG: Line 3: Invalid courseId - mat1101A
+DEBUG: Line 3: Invalid year - 2025
+WARN: Line 3: Invalid studentId; Invalid courseId; Invalid year; 
+DEBUG: Line 4: Invalid studentId - 3215619823
+DEBUG: Line 4: Invalid year - 1955
+WARN: Line 4: Invalid studentId; Invalid year; 
+ERROR: Error adding student: org.cst8288Lab2.domain.Student@3e96bacf - Duplicate entry '123546851' for key 'student.PRIMARY'
+ERROR: Error adding course: org.cst8288Lab2.domain.Course@484970b0 - Duplicate entry 'cst8288' for key 'course.PRIMARY'
+ERROR: Error adding studentCourse: org.cst8288Lab2.domain.StudentCourse@4470f8a6 - Duplicate entry '123546851-cst8288' for key 'studentcourse.PRIMARY'
+INFO: Generated reports.
+INFO: Loaded database properties.
+INFO: Connected to the database.
+DEBUG: Line 3: Invalid studentId - 9861534S2
+DEBUG: Line 3: Invalid courseId - mat1101A
+DEBUG: Line 3: Invalid year - 2025
+WARN: Line 3: Invalid studentId; Invalid courseId; Invalid year; 
+DEBUG: Line 4: Invalid studentId - 3215619823
+DEBUG: Line 4: Invalid year - 1955
+WARN: Line 4: Invalid studentId; Invalid year; 
+ERROR: Error adding student: org.cst8288Lab2.domain.Student@3e96bacf - Duplicate entry '123546851' for key 'student.PRIMARY'
+ERROR: Error adding course: org.cst8288Lab2.domain.Course@484970b0 - Duplicate entry 'cst8288' for key 'course.PRIMARY'
+ERROR: Error adding studentCourse: org.cst8288Lab2.domain.StudentCourse@4470f8a6 - Duplicate entry '123546851-cst8288' for key 'studentcourse.PRIMARY'
+INFO: Generated reports.
+INFO: Loaded database properties.
+INFO: Connected to the database.
+DEBUG: Line 3: Invalid studentId - 9861534S2
+DEBUG: Line 3: Invalid courseId - mat1101A
+DEBUG: Line 3: Invalid year - 2025
+WARN: Line 3: Invalid studentId; Invalid courseId; Invalid year; 
+DEBUG: Line 4: Invalid studentId - 3215619823
+DEBUG: Line 4: Invalid year - 1955
+WARN: Line 4: Invalid studentId; Invalid year; 
+ERROR: Error adding student: org.cst8288Lab2.domain.Student@3e96bacf - Duplicate entry '123546851' for key 'student.PRIMARY'
+INFO: Added student to DB: org.cst8288Lab2.domain.Student@4470f8a6
+ERROR: Error adding course: org.cst8288Lab2.domain.Course@7c83dc97 - Duplicate entry 'cst8288' for key 'course.PRIMARY'
+ERROR: Error adding course: org.cst8288Lab2.domain.Course@7748410a - Duplicate entry 'cst8288' for key 'course.PRIMARY'
+ERROR: Error adding studentCourse: org.cst8288Lab2.domain.StudentCourse@740773a3 - Duplicate entry '123546851-cst8288' for key 'studentcourse.PRIMARY'
+INFO: Added studentCourse to DB: org.cst8288Lab2.domain.StudentCourse@55740540
+INFO: Generated reports.
+INFO: Loaded database properties.
+INFO: Connected to the database.
+DEBUG: Line 3: Invalid studentId - 9861534S2
+DEBUG: Line 3: Invalid courseId - mat1101A
+DEBUG: Line 3: Invalid year - 2025
+WARN: Line 3: Invalid studentId; Invalid courseId; Invalid year; 
+DEBUG: Line 4: Invalid studentId - 3215619823
+DEBUG: Line 4: Invalid year - 1955
+WARN: Line 4: Invalid studentId; Invalid year; 
+ERROR: Error adding student: org.cst8288Lab2.domain.Student@484970b0 - Duplicate entry '123546851' for key 'student.PRIMARY'
+ERROR: Error adding student: org.cst8288Lab2.domain.Student@4470f8a6 - Duplicate entry '321561982' for key 'student.PRIMARY'
+ERROR: Error adding course: org.cst8288Lab2.domain.Course@7c83dc97 - Duplicate entry 'cst8288' for key 'course.PRIMARY'
+ERROR: Error adding course: org.cst8288Lab2.domain.Course@7748410a - Duplicate entry 'cst8288' for key 'course.PRIMARY'
+ERROR: Error adding studentCourse: org.cst8288Lab2.domain.StudentCourse@740773a3 - Duplicate entry '123546851-cst8288' for key 'studentcourse.PRIMARY'
+ERROR: Error adding studentCourse: org.cst8288Lab2.domain.StudentCourse@37f1104d - Duplicate entry '321561982-cst8288' for key 'studentcourse.PRIMARY'
+INFO: Generated reports.
